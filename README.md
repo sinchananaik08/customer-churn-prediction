@@ -4,7 +4,7 @@
 Built a machine learning system that predicts which customers will cancel their subscription and calculates the financial impact of proactive retention.
 
 ## Structure of Github repo
-
+```
 customer-churn-prediction/
 │
 ├── README.md
@@ -23,6 +23,7 @@ customer-churn-prediction/
 ├── 03_risk_drivers.py
 ├── 04_risk_scoring.py
 └── 05_financial_impact.py
+```
 
 ## Business Impact
 - **$121,200 annual revenue retained** through targeted interventions
