@@ -7,15 +7,15 @@ Built a machine learning system that predicts which customers will cancel their 
 
 customer-churn-prediction/
 │
-├── README.md                    
-├── requirements.txt             
+├── README.md
+├── requirements.txt
 │
-├── data/                       
+├── data/
 │   ├── customer_data.xlsx
 │   ├── customer_data_with_risk_scores.xlsx
 │   └── financial_impact.xlsx
 │
-├── charts/                      
+├── charts/
 │   └── eda_charts.png
 │
 ├── 01_create_data.py
